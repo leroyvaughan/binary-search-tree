@@ -4,7 +4,7 @@ An implementation of Binary Search Tree
 
 See code in action here on [playcode.io](https://playcode.io/465431?tabs=script.js,preview,console)
 
-See my blog article about it [here](https://garuwun.x10host.com/2019/11/15/binary-search-tree-you-ask-me/)
+See my blog article about it [here](https://garuwun.wordpress.com/2019/11/15/binary-search-tree-you-ask-me/)
 
 <br><br>
 ## FYI, not once in my Information Technology career have I ever been asked to do a Binary Search Tree.  
